@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "931eab74abc37e38",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd652bca9c5e28e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20131919ae5557b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "495c0f7c061ed1d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b4bec51c9d35873",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8fcc2e2fceed676",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37273f194d794669",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34bc067bd0325f78",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "right": {
+    "id": "472aada16bd74672",
+    "type": "split",
+    "children": [
+      {
+        "id": "6eea6694eb21efc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "869b17644a79cde5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de6261b6f7044617",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7d51dbd223c7813",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9dcbbdb94605c9d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "6098934e2b852967",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "20131919ae5557b4",
+  "lastOpenFiles": [
+    "Excalidraw/README .excalidraw.png",
+    "Excalidraw/README .excalidraw.md",
+    "README.md",
+    "Excalidraw/ssd.excalidraw.md",
+    "未命名.md",
+    "Excalidraw/ssd.excalidraw.png",
+    "Excalidraw/ .excalidraw.md",
+    "Excalidraw/ .excalidraw.png",
+    "ssda.excalidraw.md",
+    "Excalidraw/ _0.excalidraw.md"
+  ]
+}
