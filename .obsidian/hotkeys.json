@@ -108,7 +108,7 @@
   "obsidian-excalidraw-plugin:Downloaded/Add Next Step in Process": [
     {
       "modifiers": [
-        "Shift"
+        "Alt"
       ],
       "key": "S"
     }
@@ -116,7 +116,7 @@
   "obsidian-excalidraw-plugin:Downloaded/Auto Layout": [
     {
       "modifiers": [
-        "Shift"
+        "Alt"
       ],
       "key": "L"
     }
@@ -125,7 +125,7 @@
   "obsidian-excalidraw-plugin:Downloaded/Change shape of selected elements": [
     {
       "modifiers": [
-        "Shift"
+        "Alt"
       ],
       "key": "C"
     }
@@ -152,9 +152,9 @@
   "obsidian-excalidraw-plugin:Downloaded/Connect elements": [
     {
       "modifiers": [
-        "Shift"
+        "Alt"
       ],
-      "key": "E"
+      "key": "2"
     }
   ],
   "obsidian-excalidraw-plugin:toggle-lock": [],
@@ -167,7 +167,7 @@
   "obsidian-excalidraw-plugin:Downloaded/Box Selected Elements": [
     {
       "modifiers": [
-        "Shift"
+        "Alt"
       ],
       "key": "B"
     }

@@ -1,0 +1,9 @@
+[submodule "SharedScheduler"]
+	path = SharedScheduler
+	url = https://github.com/zflcs/SharedScheduler.git
+[submodule "learning"]
+	path = learning
+	url = https://github.com/zflcs/learning.git
+[submodule "cultivate_scheme"]
+	path = cultivate_scheme
+	url = https://github.com/zflcs/cultivate_scheme.git
